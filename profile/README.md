@@ -60,7 +60,7 @@ Supporting the next generation of web stacks with cutting edge research on the c
 
   `chain`
 
-* **Research and design the L2 solution of Move**
+* **Research and design the L2 solution based on Move Framework**
 
   `chain`
 
